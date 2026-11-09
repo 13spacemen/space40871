@@ -1,0 +1,44 @@
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "a_html"
+#define FILE_DIR "algorithm"
+#define FILE_DIR "code"
+#define FILE_DIR "dir1"
+#define FILE_DIR "dir2"
+#define FILE_DIR "dir3"
+#define FILE_DIR "dir4"
+#define FILE_DIR "rsc"
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "Test.dm"
+#include "TextHandling.dm"
+#include "cellautomata.dmp"
+#include "a_html\colour2html.dm"
+#include "a_html\hexadecimal.dm"
+#include "a_html\inverthtml.dm"
+#include "a_html\photoshot.dm"
+#include "algorithm\ss13_algorithm2.dm"
+#include "code\aaaDefines.dm"
+#include "code\airtunnel.dm"
+#include "code\atmo_control.dm"
+#include "code\cell_process.dm"
+#include "code\cellautomata.dm"
+#include "code\chemical.dm"
+#include "code\computer.dm"
+#include "code\cryo.dm"
+#include "code\demo.dm"
+#include "code\demo2.dm"
+#include "code\dna.dm"
+#include "code\engine.dm"
+#include "code\instructions.dm"
+#include "code\items.dm"
+#include "code\mob.dm"
+#include "code\shuttle.dm"
+#include "code\weap_sat.dm"
+#include "code\weapons.dm"
+// END_INCLUDE
